@@ -1,3 +1,3 @@
 # zuri-javascript
 <br>
-https://wiz-js.github.io/zuri-javascript/
+https://wisdom-egba.github.io/zuri-javascript/
